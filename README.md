@@ -1,13 +1,16 @@
-[![MasterHead](https://cdn.dribbble.com/users/207059/screenshots/2354622/androidtipsspacepanoramadribbble.gif)](https://BhushanSagar.io)
+[![MasterHead](https://cdn.dribbble.com/users/117204/screenshots/3022609/data_logo_motion_4.gif)](https://BhushanSagar.io)
 <h1 align="center">Hi 👋, I'm BHUSHAN SAGAR</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/117204/screenshots/3022609/data_logo_motion_4.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aeronaut2001&label=Profile%20views&color=0e75b6&style=flat" alt="aeronaut2001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aeronaut2001" alt="aeronaut2001" /></a> </p>
 
-- 🔭 I’m currently working on [1.Data Analysis Terrorism 2.ANALYSIS OF TRANSONIC FLOW OVER NACA 2412 AIRFOIL 3.AERODYNAMICS STUDY OF VARIOUS FINS FOR MISSILE BODY](1.https://github.com/aeronaut2001/aeronaut2001.github.io/tree/main/task%204)
+- 🔭 I’m currently working on <br/>
+[1.Data Analysis Terrorism <br />
+2.ANALYSIS OF TRANSONIC FLOW OVER NACA 2412 AIRFOIL <br />
+3.AERODYNAMICS STUDY OF VARIOUS FINS FOR MISSILE BODY](1.https://github.com/aeronaut2001/aeronaut2001.github.io/tree/main/task%204)
 
 - 🌱 I’m currently learning **1.Ms Excel for data analysis 2.I-CEM software 3.Ansys Fluent**
 
