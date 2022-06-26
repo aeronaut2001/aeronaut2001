@@ -35,7 +35,7 @@
 
 [![Bhushan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aeronaut2001&&theme=xcode)](https://github.com/aeronaut2001)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeronaut2001&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aeronaut2001" /></p> 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeronaut2001&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aeronaut2001" /></p> 
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aeronaut2001&show_icons=true&locale=en&theme=tokyonight" alt="aeronaut2001" /></p>
 
